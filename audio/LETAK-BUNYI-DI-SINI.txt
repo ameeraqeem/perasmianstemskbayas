@@ -1,0 +1,10 @@
+Letak fail bunyi MP3 dalam folder ini dengan nama berikut (semua pilihan):
+
+  latar.mp3    Muzik latar bersemangat. Dimainkan berulang (loop) sepanjang
+               puzzle disusun, dan perlahan-lahan hilang bila puzzle siap.
+  betul.mp3    Bunyi pendek setiap kali kepingan masuk ke rumahnya
+               (contoh: "ding!", sorakan kecil, whoosh).
+  selesai.mp3  Bunyi bila puzzle lengkap (contoh: fanfare, sorakan, tepukan).
+
+Fail yang tiada akan diganti dengan bunyi sintetik asal.
+Nama fail mesti huruf kecil dan tepat seperti di atas.

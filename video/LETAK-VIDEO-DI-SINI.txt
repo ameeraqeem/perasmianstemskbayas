@@ -1,0 +1,10 @@
+Letak video perasmian dalam folder ini dengan nama:
+
+    perasmian.mp4
+
+Video akan dimainkan skrin penuh secara automatik kira-kira 4 saat
+selepas puzzle siap dan poster dipaparkan skrin penuh.
+Tekan kekunci P untuk main / ulang video.
+
+Tips: format MP4 (H.264), 1920x1080. Untuk upload melalui laman web GitHub,
+saiz fail mesti bawah 25MB.
